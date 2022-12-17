@@ -1,0 +1,6 @@
+dependencies:
+- name: intermediate
+  repository: file://../../libraries/intermediate
+  version: 1.0.0
+digest: sha256:2d35b351ee4a1d2404b6408ad865cffc4be893c9cdea49debb4cd77d4a919358
+generated: "2022-12-17T17:15:36.461616511+03:00"

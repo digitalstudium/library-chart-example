@@ -1,0 +1,16 @@
+image:
+  registry: quay.io
+  name: ""
+  hash: ""
+deployment:
+  annotations:
+    from-base: foobar
+service:
+  port: 80
+resources:
+  requests:
+    cpu: 500m
+    memory: 128Mi
+  limits:
+    cpu: 1.0
+    memory: 256Mi

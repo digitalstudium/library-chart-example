@@ -1,0 +1,3 @@
+deployment:
+  annotations:
+    from-intermediate: blablabla

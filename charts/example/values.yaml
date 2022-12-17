@@ -1,0 +1,11 @@
+all: true
+
+image:
+  hash: sha256-hash:sdfkjlsdlkfjlsdfkjsdf
+
+service:
+  port: 8080
+
+deployment:
+  annotations:
+    from-final: two
